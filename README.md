@@ -64,7 +64,7 @@ Salida esperada (impresa):
 
 ---
 
-### 02. intercalarColas(Queue<Integer> cola1, Queue<Integer> cola2) {
+### 02. intercalarColas(Queue<Integer> cola1, Queue<Integer> cola2) 
 -  Intercalar dos colas
 
 > **Concepto:**  
@@ -95,5 +95,3 @@ Para contribuir a este proyecto, por favor crea un fork y envía una solicitud d
 
 - [PABLO TORRES] - Desarrollo inicial
 ```
-
-¿Deseas que genere este `README.md` como archivo para descarga o lo dejo listo para que lo pegues tú manualmente?
